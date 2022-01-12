@@ -11,7 +11,7 @@ My most favourite languages and tools:
 
 
 [![Didzis' GitHub stats](https://github-readme-stats.vercel.app/api?username=didzis1&show_icons=true&theme=radical)](https://github.com/didzis1/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=didzis1&layout=compact&langs_count=6&hide=blade&theme=radical)](https://github.com/didzis1/github-readme-stats)  
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=didzis1&layout=compact&langs_count=6&hide=blade&theme=radical)](https://github.com/didzis1/github-readme-stats)   -->
 
 
 
