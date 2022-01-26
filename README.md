@@ -18,6 +18,6 @@ My most favourite languages and tools:
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on my school thesis and a gym app called Hyperlift
-- 🌱 I’m currently learning PostgreSQL, Sequelize and TypeScript in general ☺️
+- 🌱 I’m currently learning Docker, PostgreSQL, Sequelize and TypeScript in general ☺️
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/didzis-zvaigzne-2611011a4)
 - ⚡ Fun fact: TypeScript, React & GraphQL are one of my favourite tools/languages, I love to read books and I'm weirdly crazed about mechanical keyboards
