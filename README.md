@@ -17,7 +17,7 @@ My most favourite languages and tools:
 
 
 Here are some ideas to get you started:
-- 🔭 I’m currently working at a company called Ambientia and trying to finish my school thesis.
+- 🔭 I’m currently working as a Junior Software Developer Trainee.
 - 🌱 I’m currently learning Docker, PostgreSQL, Sequelize and TypeScript in general ☺️
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/didzis-zvaigzne-2611011a4)
 - ⚡ Fun fact: TypeScript, React & GraphQL are one of my favourite tools/languages, I love to read books, customize mechanical keyboards and play board games
